@@ -1,4 +1,5 @@
 # AI-in-Medical
+![AI-In-Medical](https://user-images.githubusercontent.com/54285534/207263921-ea4852de-694d-405b-9ffe-2141f3dd546d.jpeg)
 
 ## Introduction
 
