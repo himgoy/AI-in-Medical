@@ -12,6 +12,8 @@ We have a total of 4679 records of which 4625 patients were discharged alive and
 
 ## Project
 
--
-
-Various ML models are used to create an ensemble model.
+- We have converted all the categorical features to numerical features.
+- Then all records containing null values in any feature are removed as data manupulation can't be done on medical dataset.
+- Feature selection is done to find the important features and top 15 features are taken for model creation.
+- We did hyperparameter tuning for various ML models like SVM, Logistic Regression, Random Forest, Adaboost, Gradient Boost.
+- Top performing algorithms were choosen to form an ensemble model. 
